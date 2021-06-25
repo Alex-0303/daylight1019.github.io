@@ -188,7 +188,6 @@ $(function () {
 		var tag = $(e).find('input').get(0).value;
 		var cnt = $('.'+tag).length;
 		$(e).find('.badge').text('(' + cnt + ')');
-		console.log(tag, cnt);
 	})
 
 	
