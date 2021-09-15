@@ -807,7 +807,7 @@ input[type="file"] {
 }
 
 .content:last-child {
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 }
 
 .content .title {
@@ -1035,7 +1035,7 @@ input[type="file"] {
 /* Pricing */
 .pricing-items .pricing-item {
 	position: relative;
-	padding: 0 0 100px 0;
+	padding: 0 0 0px 0;
 }
 
 .pricing-items .pricing-item .name {
